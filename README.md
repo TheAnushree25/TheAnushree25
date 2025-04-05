@@ -1,3 +1,4 @@
+![logo](https://github.com/TheAnushree25/TheAnushree25/blob/main/Add%20a%20heading.jpg)
 <h1 align="center">Hi 👋, I'm Kumari Anushree</h1>
 <h3 align="center">A driven frontend developer and an innovative software engineer</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg">
