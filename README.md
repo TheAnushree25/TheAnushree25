@@ -1,9 +1,11 @@
 <div align="center">
-  <!-- Dynamic Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=300&section=header&text=Kumari%20Anushree&fontSize=80&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20UI%2FUX%20%26%203D%20Web%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" />
+  <!-- Breathtaking Animated Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Kumari+Anushree+👋;Full-Stack+Software+Engineer;Crafting+Scalable+Architectures;UI%2FUX+%26+3D+Web+Enthusiast" alt="Typing SVG" />
+  </a>
 </div>
 
-<h3 align="center">Crafting Scalable Systems & Immersive Digital Experiences</h3>
+<h3 align="center">Turning Complex Problems into Elegant, High-Performance Solutions</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/k.anushree"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,24 +16,24 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=theanushree25&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=theanushree25&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 **Current Focus:** Engineering robust, event-driven architectures (like OmniBridge) and building high-performance, responsive interfaces.
+- 🔭 **Current Focus:** Engineering robust, event-driven architectures and building high-performance, responsive interfaces.
 - 💡 **Problem-Solving:** Active competitive programmer (Knight on LeetCode, 3-Star on CodeChef). I love tackling complex algorithms and optimizing execution times.
 - 💻 **Tech Stack:** I specialize in building full-stack applications using React, Node.js, Python, and Django.
-- 🤝 **Work Philosophy:** Technical execution is only half the battle. I bring strong collaboration, clear communication, and proactive problem-solving to every team, ensuring those essential soft skills are always applied to deliver projects seamlessly.
+- 🤝 **Work Philosophy:** Technical execution is only half the battle. I bring strong collaboration, clear communication, and proactive problem-solving to every team, ensuring those essential soft skills are applied to deliver projects seamlessly.
 - 🌱 **Currently Exploring:** Advanced Data Structures, 3D web integrations, and frameworks surrounding Universal Human Values.
 
 ---
 
 ### 🛠️ Languages & Tools
 
-<!-- Beautiful, uniform tech stack icons -->
+<!-- Unified tech stack icons -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nextjs,nodejs,express,django,mongodb,postgres,sqlite,tailwind,tensorflow,git&perline=8" alt="Tech Stack Icons" />
@@ -42,19 +44,19 @@
 
 ### 📊 GitHub Analytics
 
-<!-- Themed statistic cards for a cohesive look -->
+<!-- Fixed parameters and added transparent background for a floating neon effect -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theanushree25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theanushree25&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theanushree25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theanushree25&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theanushree25&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theanushree25&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" width="48%" />
 </div>
 
 <br>
 
-<!-- Sleek closing animation to replace the static cartoon -->
+<!-- Sleek closing animation -->
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI5ZTYwZTY0ZTZkYTEzNjI1NWMwNDY4N2Y1MGEwY2RhNzNkNDY0OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:15px; max-width: 800px;" alt="Coding Animation">
 </div>
