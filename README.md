@@ -1,28 +1,60 @@
-![logo](https://github.com/TheAnushree25/TheAnushree25/blob/main/Add%20a%20heading.jpg)
-<h1 align="center">Hi 👋, I'm Kumari Anushree</h1>
-<h3 align="center">A driven frontend developer and an innovative software engineer</h3>
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg">
+<div align="center">
+  <!-- Dynamic Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=300&section=header&text=Kumari%20Anushree&fontSize=80&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20UI%2FUX%20%26%203D%20Web%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theanushree25&label=Profile%20views&color=0e75b6&style=flat" alt="theanushree25" /> </p>
+<h3 align="center">Crafting Scalable Systems & Immersive Digital Experiences</h3>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms and Backend Development**
+<div align="center">
+  <a href="https://linkedin.com/in/k.anushree"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:theanushree25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/kmanushsagt"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+</div>
 
-- 📫 How to reach me **theanushree25@gmail.com**
+<br>
 
-- ⚡ Fun facts **Problem-Solving: I love tackling complex problems, especially algorithm challenges!**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=theanushree25&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/k.anushree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k.anushree" height="30" width="40" /></a>
+---
 
-<a href="https://auth.geeksforgeeks.org/user/kmanushsagt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kmanushsagt" height="30" width="40" /></a>
+### 🚀 About Me
+
+- 🔭 **Current Focus:** Engineering robust, event-driven architectures (like OmniBridge) and building high-performance, responsive interfaces.
+- 💡 **Problem-Solving:** Active competitive programmer (Knight on LeetCode, 3-Star on CodeChef). I love tackling complex algorithms and optimizing execution times.
+- 💻 **Tech Stack:** I specialize in building full-stack applications using React, Node.js, Python, and Django.
+- 🤝 **Work Philosophy:** Technical execution is only half the battle. I bring strong collaboration, clear communication, and proactive problem-solving to every team, ensuring those essential soft skills are always applied to deliver projects seamlessly.
+- 🌱 **Currently Exploring:** Advanced Data Structures, 3D web integrations, and frameworks surrounding Universal Human Values.
+
+---
+
+### 🛠️ Languages & Tools
+
+<!-- Beautiful, uniform tech stack icons -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nextjs,nodejs,express,django,mongodb,postgres,sqlite,tailwind,tensorflow,git&perline=8" alt="Tech Stack Icons" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theanushree25&show_icons=true&locale=en&layout=compact" alt="theanushree25" /></p>
+### 📊 GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theanushree25&show_icons=true&locale=en" alt="theanushree25" /></p>
+<!-- Themed statistic cards for a cohesive look -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theanushree25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theanushree25&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theanushree25&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theanushree25&" alt="theanushree25" /></p>
+<br>
+
+<!-- Sleek closing animation to replace the static cartoon -->
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI5ZTYwZTY0ZTZkYTEzNjI1NWMwNDY4N2Y1MGEwY2RhNzNkNDY0OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:15px; max-width: 800px;" alt="Coding Animation">
+</div>
