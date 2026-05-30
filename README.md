@@ -41,17 +41,16 @@
 </p>
 
 ---
-
 ### 📊 GitHub Analytics
 
-<!-- Added &v=1 cache busters to force GitHub to load the images -->
+<!-- Removed unsupported parameters and fixed layout scaling -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theanushree25&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theanushree25&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theanushree25&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theanushree25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theanushree25&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theanushree25&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
